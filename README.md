@@ -3,11 +3,11 @@ This is the Repo while Learning GoLang!
 
 ## Questions Need to be Answered
 - What is Concurrency?
-
-- How Concurrency is different from sequential programming
-
+- 
 - Benefits of Concurrency.
-
+  
+- How Concurrency is different from sequential programming
+  
 - Concurrent Programming is done in Go, through
   - Goroutines
   - WaitGroups
