@@ -6,13 +6,14 @@ This is the Repo while Learning GoLang!
  
 - Benefits of Concurrency.
   
-- How Concurrency is different from sequential programming
-  
 - Concurrent Programming is done in Go, through
   - Goroutines
   - WaitGroups
   - Channels
   - Mutexes
+
+- How Concurrency in Go is different from sequential programming
+
 
 - How Concurrency in GoLang is different from Python.
 ---
