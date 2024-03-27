@@ -18,7 +18,7 @@ This is the Repo while Learning GoLang!
 - How Concurrency in GoLang is different from Python.
 ---
 ## Reference 
-- https://go.dev/tour/concurrency/
+- https://go.dev/tour/concurrency/1/
 - https://youtu.be/B9uR2gLM80E?si=COUXtUoy5HMImIPC
 
 ## Links For Examples :
