@@ -19,6 +19,8 @@ This is the Repo while Learning GoLang!
 
 #### Coding Files are also available in master branch.
 
+#### Link For Slides: https://www.canva.com/design/DAGAoNUIDsw/etmYWXhaRL7oIc38Ro-MdA/edit?utm_content=DAGAoNUIDsw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 ## Reference 
 - https://go.dev/tour/concurrency/1/
