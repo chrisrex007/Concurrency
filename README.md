@@ -20,6 +20,8 @@ This is the Repo while Learning GoLang!
 ## Reference 
 - https://go.dev/tour/concurrency/1/
 - https://youtu.be/B9uR2gLM80E?si=COUXtUoy5HMImIPC
+- https://medium.com/dev-bits/a-cup-of-gos-concurrent-programming-for-python-developers-a80e621c45ff
+
 
 ## Links For Examples :
 - https://youtu.be/LvgVSSpwND8?si=DGyKamBDOo89DxYp
