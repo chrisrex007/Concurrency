@@ -1,5 +1,5 @@
 # Concurrency
-This is the Repo while Learning GoLang! 
+This is the Repo while Learning Concurrency in GoLang! 
 
 ## Questions Need to be Answered
 - What is Concurrency?
